@@ -1,6 +1,6 @@
-C Dili ile Tic-Tac-Toe Oyunu
-Bu proje, C programlama dilinde iki oyunculu, konsol tabanlı basit bir Tic-Tac-Toe (X-O) oyunu uygulamasını içerir. Oyuncular sırayla 3x3'lük bir tahtaya işaretlerini (X veya O) yerleştirirler. Oyun, bir kazanan olup olmadığını veya beraberlikle sonuçlanıp sonuçlanmadığını belirler.
-
+**C Dili ile Tic-Tac-Toe Oyunu
+Bu proje, C programlama dilinde iki oyunculu, konsol tabanlı basit bir Tic-Tac-Toe (X-O) oyunu uygulamasını içerir. Oyuncular sırayla 3x3'lük bir tahtaya işaretlerini (X veya O) yerleştirirler. Oyun, bir kazanan olup olmadığını veya beraberlikle sonuçlanıp sonuçlanmadığını belirler.**
+    
     #include <stdio.h>
 
     // Tahtayı temsil eden 2D dizi
